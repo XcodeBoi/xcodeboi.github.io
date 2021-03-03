@@ -13,6 +13,12 @@ body {
 .header {
 	font-size: 30px;
 }
+@keyframes what {
+	from {border-color: pink;}
+	to {border-color: red;}
+	from {border-color: red;}
+	to {border-color: pink;}
+}
 .content {
 	border-style: solid;
 	border-width: 4px;
@@ -22,6 +28,9 @@ body {
 	padding-bottom: 200px;
 	border-color: rgb(255, 207, 93);
 	color: rgb(255, 207, 93);
+	animation-name: what;
+	animation-duration: 4s;
+	animation-iteration-count: 10000;
 }
 .top li {
 	list-style-type: upper-roman;
