@@ -1,0 +1,42 @@
+p {
+	margin: 0px 0px 0px 0px;
+}
+.header {
+
+	font-size: 1.5em;
+	color: rgb(0, 195, 137);
+	margin: 2.1em 15px 1em 15px;
+}
+.content {
+	font-size: 0.9em;
+	text-align: justify;
+}
+.content p {
+	margin: 20px 30px 20px 30px;
+}
+.content table {
+	margin: 20px 30px 20px 30px;
+}
+.content a {
+	color: rgb(231, 186, 0);
+}
+.footer {
+	margin: 1em 5% 50px 5%;
+	color: rgb(94, 94, 94);
+	font-size: 11px;
+}
+.right {
+	float: right;
+}
+.left {
+	float: left;
+}
+a:visited {
+	color: rgb(0, 210, 137);
+}
+a {
+	color: rgb(0, 210, 137);
+}
+a:hover {
+	text-decoration-color: red;
+}

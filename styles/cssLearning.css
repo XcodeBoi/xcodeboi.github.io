@@ -1,0 +1,25 @@
+h1, p {
+	color: red;
+}
+li {
+	color: green;
+}
+em {
+	color: blue;
+}
+.testing {
+	color: purple;
+}
+li.testing {
+	color: orange;
+}
+li em {
+	color: pink;
+}
+h1 {
+  font-size: 200%;
+}
+
+html {
+	
+}

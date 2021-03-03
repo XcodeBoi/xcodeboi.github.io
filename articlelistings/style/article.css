@@ -1,0 +1,56 @@
+p {
+	margin: 0px 0px 0px 0px;
+}
+.header {
+
+	font-size: 1.5em;
+	color: rgb(0, 195, 137);
+	margin: 2.1em 15px 1em 15px;
+}
+.header .author {
+	color: #ccc;
+	font-size: 0.85rem;
+	margin: 2px 0px 0px 5px;
+}
+.content {
+	font-size: 0.9em;
+	text-align: justify;
+}
+.content p {
+	margin: 20px 30px 20px 30px
+}
+.content .heading {
+	font-size: 1.1em;
+	color: rgb(0, 195, 137);
+	margin: 0px 0px 0px 5px;
+}
+.contentheadingtxt {
+	color: #ccc;
+}
+.content .main {
+	margin: 15px;
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+  	width: 30%;
+}
+.content .backarrow {
+	margin: 0px 0px 0px 30px;
+}
+.footer {
+	margin: 1em 5% 50px 5%;
+	color: rgb(94, 94, 94);
+	font-size: 11px;
+}
+.right {
+	float: right;
+}
+.left {
+	float: left;
+}
+a {
+	color: rgb(0, 195, 137);
+}
+a:hover {
+	text-decoration-color: red;
+}

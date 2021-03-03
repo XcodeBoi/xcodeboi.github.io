@@ -1,0 +1,31 @@
+p {
+	margin: 0px 0px 0px 0px;
+}
+html {
+	background-image: url("../images/background.jpeg");
+	background-size: 1600px;
+	font-family: "Menlo", "Meslo LG", monospace;
+	color: rgb(255, 207, 93);
+}
+body {
+	margin: 0.7em 50% 0px 18%;
+}
+.header {
+	font-size: 30px;
+}
+.content {
+	border-style: solid;
+	border-width: 4px;
+	border-radius: 25px;
+	padding: 0px;
+	padding-left: 20px;
+	padding-bottom: 200px;
+	border-color: rgb(255, 207, 93);
+	color: rgb(255, 207, 93);
+}
+.top li {
+	list-style-type: upper-roman;
+}
+a {
+	color: rgb(255, 207, 93);
+}
