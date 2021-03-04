@@ -13,16 +13,15 @@ body {
 .header {
 	font-size: 30px;
 }
+
 @keyframes what {
 	from {border-color: pink;}
 	to {border-color: red;}
-	from {border-color: red;}
-	to {border-color: pink;}
 }
 .content {
 	border-style: solid;
-	border-width: 4px;
 	border-radius: 25px;
+	border-width: 4px;
 	padding: 0px;
 	padding-left: 20px;
 	padding-bottom: 200px;
@@ -30,11 +29,16 @@ body {
 	color: rgb(255, 207, 93);
 	animation-name: what;
 	animation-duration: 4s;
-	animation-iteration-count: 10000;
+	animation-direction: alternate-reverse;
+	animation-iteration-count: infinite;
 }
 .top li {
 	list-style-type: upper-roman;
 }
 a {
 	color: rgb(255, 207, 93);
+}
+div {
+  resize: both;
+  overflow: auto;
 }
