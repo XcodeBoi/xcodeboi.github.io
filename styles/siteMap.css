@@ -7,9 +7,6 @@ html {
 	font-family: "Menlo", "Meslo LG", monospace;
 	color: rgb(255, 207, 93);
 }
-body {
-	margin: 0.7em 50% 0px 18%;
-}
 .header {
 	font-size: 30px;
 }
@@ -18,7 +15,7 @@ body {
 	from {border-color: pink;}
 	to {border-color: red;}
 }
-.content {
+.lists {
 	border-style: solid;
 	border-radius: 25px;
 	border-width: 4px;
@@ -32,13 +29,18 @@ body {
 	animation-direction: alternate-reverse;
 	animation-iteration-count: infinite;
 }
+@keyframes opening {
+	from {}
+	to {}
+}
+.content {
+	margin: 1.5em 50% 0px 18%;
+	animation-name: opening;
+	animation-duration: 2s;
+}
 .top li {
 	list-style-type: upper-roman;
 }
 a {
 	color: rgb(255, 207, 93);
-}
-div {
-  resize: both;
-  overflow: auto;
 }
