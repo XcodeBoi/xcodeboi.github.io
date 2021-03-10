@@ -1,0 +1,31 @@
+.container1 {
+	margin: 20px 30px 20px 30px;
+	overflow: auto;
+}
+.content1 {
+	float: left;
+	border-width: 3px 3px 3px 3px;
+	border-style: solid;
+	border-color: rgb(0, 195, 137);
+}
+.content2 {
+	float: right;
+	border-width: 3px 3px 3px 3px;
+	border-style: solid;
+	border-color: rgb(0, 195, 137);
+}
+.content3 {
+	clear: both;
+	float: left;
+	border-width: 3px 3px 3px 3px;
+	border-style: solid;
+	border-color: rgb(0, 195, 137);
+	margin: 5px 0px 0px 0px;
+}
+.content4 {
+	float: left;
+	border-width: 3px 3px 3px 3px;
+	border-style: solid;
+	border-color: rgb(0, 195, 137);
+	margin: 5px 0px 0px 0px;
+}

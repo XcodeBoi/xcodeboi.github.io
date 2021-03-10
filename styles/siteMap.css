@@ -29,14 +29,8 @@ html {
 	animation-direction: alternate-reverse;
 	animation-iteration-count: infinite;
 }
-@keyframes opening {
-	from {}
-	to {}
-}
 .content {
 	margin: 1.5em 50% 0px 18%;
-	animation-name: opening;
-	animation-duration: 2s;
 }
 .top li {
 	list-style-type: upper-roman;

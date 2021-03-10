@@ -17,26 +17,18 @@ p {
 .content table {
 	margin: 20px 30px 20px 30px;
 }
-.content a {
-	color: rgb(231, 186, 0);
-}
 .footer {
 	margin: 1em 5% 50px 5%;
 	color: rgb(94, 94, 94);
 	font-size: 11px;
-}
-.right {
-	float: right;
-}
-.left {
-	float: left;
 }
 a:visited {
 	color: rgb(0, 210, 137);
 }
 a {
 	color: rgb(0, 210, 137);
+	transition: 1.5s;
 }
 a:hover {
-	text-decoration-color: red;
+	color: rgb(0, 190, 107);
 }
