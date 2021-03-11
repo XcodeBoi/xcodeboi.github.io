@@ -24,11 +24,13 @@ p {
 }
 a:visited {
 	color: rgb(0, 210, 137);
+	transition: 0.3s;
 }
 a {
 	color: rgb(0, 210, 137);
-	transition: 1.5s;
+	transition: 0.3s;
 }
 a:hover {
-	color: rgb(0, 190, 107);
+	color: rgb(0, 99, 65);
+	transition: 0.3s;
 }

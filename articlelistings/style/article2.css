@@ -29,3 +29,27 @@
 	border-color: rgb(0, 195, 137);
 	margin: 5px 0px 0px 0px;
 }
+html {
+	background-color: rgb(29, 31, 33);
+	font-family: "Menlo", "Meslo LG", monospace;
+	color: #ccc;
+}
+.sidebar {
+	margin: 0px 3% 0px 0%;
+	float: left;
+	border-style: solid;
+	border-color: red;
+	overflow: auto;
+}
+body {
+	margin: 5px 25% 5px 10%;
+}
+.content {
+	overflow: auto;
+	margin: 0px 0% 0px 0%;
+	border-style: solid;
+	border-color: red;
+}
+.header {
+	margin: 5px 30% 5px 25%;
+}
