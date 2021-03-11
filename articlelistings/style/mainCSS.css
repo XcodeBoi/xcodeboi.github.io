@@ -3,9 +3,6 @@ html {
 	font-family: "Menlo", "Meslo LG", monospace;
 	color: #ccc;
 }
-body {
-	margin: 5px 25% 5px 25%;
-}
 .right {
 	float: right;
 }

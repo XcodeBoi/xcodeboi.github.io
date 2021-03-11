@@ -2,10 +2,14 @@ p {
 	margin: 0px 0px 0px 0px;
 }
 .header {
-
+	position: fixed;
+	padding: 15px 30% 15px 30%;
+	width: 100vw;
+	background-color: rgb(29, 31, 33);
 	font-size: 1.5em;
 	color: rgb(0, 195, 137);
-	margin: 2.1em 15px 1em 15px;
+	margin: 0px 15px 1em 15px;
+	top: 0;
 }
 .header .author {
 	color: #ccc;
@@ -15,6 +19,7 @@ p {
 .content {
 	font-size: 0.9em;
 	text-align: justify;
+	margin: 0px 0px 0px 0px;
 }
 .content p {
 	margin: 20px 30px 20px 30px
@@ -53,4 +58,10 @@ a {
 }
 a:hover {
 	text-decoration-color: red;
+}
+.page {
+	margin: 5px 25% 5px 25%;
+}
+body {
+	margin: 0px 0px 0px 0px;
 }
