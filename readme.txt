@@ -1,2 +1,2 @@
 
-This is a site that I created as part as an elementary introducation to webdesign in high school
+This is a site that I created as part as an elementary introducation to static webdesign in high school
