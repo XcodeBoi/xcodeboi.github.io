@@ -1,3 +1,6 @@
+
+// I did not write this. This was copied and used to understand js file linking to html
+
 const list = document.createElement('ul');
 const info = document.createElement('p');
 const html = document.querySelector('html');
