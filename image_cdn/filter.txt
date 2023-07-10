@@ -6,4 +6,4 @@
 ||twitter.com^
 ||reddit.com^
 ||reddit.com^
-https://instagram.com/explore^
+||instagram.com/explore^
