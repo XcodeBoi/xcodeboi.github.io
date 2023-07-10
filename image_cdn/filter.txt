@@ -5,3 +5,5 @@
 ||youtube.com^
 ||twitter.com^
 ||reddit.com^
+||reddit.com^
+||instagram.com/explore
