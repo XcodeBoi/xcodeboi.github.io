@@ -1,0 +1,7 @@
+[Adblock Plus 3.13]
+! Title: Time wasting socials
+! Expires: 10 days
+
+||youtube.com^
+||twitter.com^
+||reddit.com^
